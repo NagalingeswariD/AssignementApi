@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\AssignmentWebAPI\AngularAssignement\obj\Debug\AngularAssignement.esproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\AssignmentWebAPI\AngularAssignement\obj\Debug\AngularAssignement.esproj.CoreCompileInputs.cache
